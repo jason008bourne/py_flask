@@ -1,0 +1,19 @@
+# pycharm generated
+.idea/
+log.log.*
+.vscode
+.env
+**/*.pyc
+*.db
+.noseids
+.env3
+*.prof
+__pycache__
+*.DS_Store
+*.log
+logs/*
+.python-version
+*.csv
+/apps/product/service/gen_excel
+!.gitkeep
+local_main.py
